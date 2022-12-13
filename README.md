@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning in what areas of IT to get into.
+I have a strong preference towards front-end development and UI/UX design.
+
+- 🔭 I’m currently doing an internship in RPA.
+
+- ⚡ Fun fact: My username is how you would say my name :)
+
 <!--
 **ohreally24/ohreally24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
